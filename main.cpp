@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	// Taille initiale de la fenetre GLUT
 	glutInitWindowSize(windowW, windowH);
 	// Creation de la fenetre GLUT
-	glutCreateWindow("Cube3D");
+	glutCreateWindow("Cube3D"); 
 	glEnable(GL_DEPTH_TEST);
 	// Définition de la couleur d'effacement du framebuffer
 	glClearColor(0.0f, 0.1f, 0.1f, 0.0f);
