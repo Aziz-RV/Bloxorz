@@ -74,6 +74,8 @@ GLvoid paral(float m);
 GLvoid specialkey(int key, int x, int y);
 GLvoid redimensionner(int w, int h);
 GLvoid plateforme(void);
+GLvoid Displaymenu(void);
+
 
 // Creates the plateform of the game 
 GLvoid plateforme(void) {
@@ -160,7 +162,7 @@ GLvoid redimensionner(int w, int h) {
 	glLoadIdentity();
 
 	// Viewport
-	// // TODO Essayez de modifier l'appel à glViewport
+	// // TODO Essayez de modifier l'appel Ã  glViewport
 	// en changeant les parametre d'appel a la fonction mais
 	// tout en obtenant le meme resultat
 	glViewport(0, 0, windowW, windowH);
