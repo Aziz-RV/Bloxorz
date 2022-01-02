@@ -8,7 +8,7 @@ S ⭢ Go to the next level
 The right button on a mouse ⭢ Menu (You can change the color or exit the game)  
  
   
-# Results:
+# Results:  
 Level 1:  
 ![Level1](https://user-images.githubusercontent.com/73020056/147881845-1d23ef3c-7dd1-4042-9d9d-19769f7f8958.png)   
 Level 2:  
