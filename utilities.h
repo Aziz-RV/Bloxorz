@@ -76,6 +76,7 @@ GLvoid redimensionner(int w, int h);
 GLvoid plateforme(void);
 GLvoid Displaymenu(void);
 GLvoid MenuHandler(void);
+GLvoid LevelsHandler(void);
 
 
 // Creates the plateform of the game 
