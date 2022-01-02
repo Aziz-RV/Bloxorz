@@ -6,7 +6,7 @@ The game is based on the game shown in the photo called Bloxors. The purpose of 
 Keyboard arrows ⭢ Moving the object on the platform  
 S ⭢ Go to the next level    
 The right button on a mouse ⭢ Menu (You can change the color or exit the game)  
-  
+ 
   
 # Results:
 Level 1:  
