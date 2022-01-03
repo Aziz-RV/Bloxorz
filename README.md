@@ -1,6 +1,6 @@
 # Bloxors
 ![Real_Game](https://user-images.githubusercontent.com/73020056/147881800-b0daaa2f-d82f-43a9-a10e-fb9da0ced3d9.png)  
-This project was made as my first semester project for my VR major(2020-2021).  
+This project was made in the winter of 2020 for my VR major(2020-2021).  
 The game is based on the game shown in the photo called Bloxors. The purpose of the game being to move an object on a platform until it reaches the empty square and makes it fall there, this is how the player goes to the next level. If the player completes all the levels, he wins the game. For my project, I made only two levels.   
 For this game I used C++/OpenGL, this is my first C++/OpenGL project, so this game can be easily optimized, I didn't also use any shaders for graphics. 
 # How to move:  
